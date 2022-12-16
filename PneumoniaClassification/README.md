@@ -40,7 +40,9 @@
             <div>
                 <p> 8) Repeat step 2 through step 7 nine more times to fully train the model and obtain high validation accuracy. </p>
             </div>
-                <p> <iframe 
+                <div>
+                <p>
+                <iframe 
                 width="560" 
                 height="315" 
                 src="https://www.youtube.com/embed/OJhiQaDeXlI" 
@@ -49,6 +51,7 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen></iframe>
                 </p>
+            </div>   
         </div>
     </div>
 </main>
