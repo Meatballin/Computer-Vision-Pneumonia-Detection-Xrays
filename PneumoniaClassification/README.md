@@ -1,19 +1,3 @@
-<style>
-    h1 {
-        font-size: 55px;
-    }
-    h2 {
-        font-size: 44px;
-    }
-    code {
-        font-family:verdana;
-    }
-    p {
-        font-size: 22px;
-    }
-</style>
-
-
 <main>
     <div>
         <h1>Welcome to team The Incredibles Pneumonia Severity Detection</h1>
