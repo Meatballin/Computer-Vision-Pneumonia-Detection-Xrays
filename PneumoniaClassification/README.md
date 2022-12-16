@@ -41,6 +41,7 @@
                 <p> 8) Repeat step 2 through step 7 nine more times to fully train the model and obtain high validation accuracy. </p>
             </div>
                 <p>
+                Here is a video presentation of our project: <br>
                 https://www.youtube.com/watch?v=OJhiQaDeXlI
                 </p>
             </div>   
