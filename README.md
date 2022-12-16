@@ -19,10 +19,10 @@
             <div>
                 <p>4. Once "converting" is complete, there will be 4 files present in the ./dataSplitting/ directory. They will be called: <br><br>
                 <pre><code>
-                1)  test\_image\_arrays.npy
-                2)  test\_labels.npy
-                3)  train\_image\_arrays.npy
-                4)  train\_labels.npy 
+                1)  test_image_arrays.npy
+                2)  test_labels.npy
+                3)  train_image_arrays.npy
+                4)  train_labels.npy 
                 </code></pre>
             </div>
             <div>
